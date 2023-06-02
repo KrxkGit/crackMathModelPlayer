@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CrackMathModelPlayerApplication {
 
     public static void main(String[] args) {
-        System.out.println("Welcome to use crack_tool.\nDeveloped by Krxk");
+        System.out.println("Welcome to use crack_tool.\nDeveloped by Krxk.");
         SpringApplication.run(CrackMathModelPlayerApplication.class, args);
     }
 
